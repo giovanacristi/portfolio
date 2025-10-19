@@ -27,7 +27,6 @@ Atualmente estudo na **ETEC Sylvio de Mattos Carvalho**, trabalho como **Jovem A
 **Linguagem:** C++  
 **O que aprendi:** Lógica de programação e implementação de soluções simples e eficazes com foco em meio ambiente.
 
-
 ---
 
 ## 🌍 Onde me encontrar
