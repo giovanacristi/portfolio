@@ -28,10 +28,6 @@ Atualmente estudo na **ETEC Sylvio de Mattos Carvalho**, trabalho como **Jovem A
 **O que aprendi:** Lógica de programação e implementação de soluções simples e eficazes com foco em meio ambiente.
 
 
-🧠 ### 🧪 [Projeto Água – Protótipo Experimental](https://github.com/seuusuario/projeto_agua_prov)
-**Descrição:** Versão experimental do Projeto Água, criada para testes e aprimoramento da aplicação.  
-**Linguagem:** C++  
-**O que aprendi:** Testes de código, aprimoramento de desempenho e integração de novas funcionalidades.
 ---
 
 ## 🌍 Onde me encontrar
